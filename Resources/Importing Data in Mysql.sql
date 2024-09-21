@@ -1,6 +1,5 @@
 ### Importing product_suggestions using Wizard
 
-
 #Option 1 
 
 #Use import Wizard to import CSV
